@@ -3,7 +3,7 @@
 }
 
 html {
-    padding-top:50px;
+    padding-top: 50px;
 }
 
 
@@ -15,7 +15,8 @@ body {
     width: 60%;
     height: 400px;
     margin: 0 auto;
-    background: url('https://www.goodfreephotos.com/albums/other-photos/angel-entering-heaven-with-light.jpg');
+    background: url('https://img.freepik.com/premium-vector/beautiful-mandala-background-template_1639-31990.jpg?size=626&ext=jpg&ga=GA1.2.1315096021.1695624162&semt=ais');
+  
 }
 
 #clock {
@@ -63,12 +64,12 @@ label {
 
 #setButton {
     float:left;
-    background-color:lightgreen;
+    background-color:darkred;
     margin-top:10px;
 }
 #clearButton {
     float:right;
-    background-color:red;
+    background-color:darkgreen;
     margin-top:10px;
 }
 
